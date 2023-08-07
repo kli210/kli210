@@ -2,8 +2,8 @@
   <img src="https://thumbs.gfycat.com/GlisteningAggravatingJunebug-size_restricted.gif" width="500"/>
 </div>
 
-# Hey there 👋
-I'm Kelly, a former data maestro who danced my way from the biotechnology stage to the dazzling world of data science. Armed with a degree in biotech wizardry, I've swapped pipettes for Python, transforming into a data conjurer extraordinaire. When I'm not wrangling datasets or conjuring insights, you'll find me donning an apron and weaving culinary spells in the kitchen. From coding algorithms to crafting crème brûlée, my journey is an exhilarating fusion of data-driven discoveries and delectable experiments. Let's stir up a symphony of flavors and insights together!
+# Hey, I'm Kelly 👋
+A former data maestro who danced my way from the biotechnology stage to the dazzling world of data science. Armed with a degree in biotech wizardry, I've swapped pipettes for Python, transforming into a data conjurer extraordinaire. When I'm not wrangling datasets or conjuring insights, you'll find me donning an apron and weaving culinary spells in the kitchen. From coding algorithms to crafting crème brûlée, my journey is an exhilarating fusion of data-driven discoveries and delectable experiments. Let's stir up a symphony of flavors and insights together!
 
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/AjyLmNcI5K53XlR0jR/giphy.gif" width="500"/>
