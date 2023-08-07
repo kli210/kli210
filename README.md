@@ -3,7 +3,13 @@
 </div>
 
 # Hey, I'm Kelly 👋
-A former data maestro who danced my way from the biotechnology stage to the dazzling world of data science. Armed with a degree in biotech wizardry, I've swapped pipettes for Python, transforming into a data conjurer extraordinaire. When I'm not wrangling datasets or conjuring insights, you'll find me donning an apron and weaving culinary spells in the kitchen. From coding algorithms to crafting crème brûlée, my journey is an exhilarating fusion of data-driven discoveries and delectable experiments. Let's stir up a symphony of flavors and insights together!
+By day, I'm a data scientist, delving into the intricate world of data after a spell as a biotech whiz. Armed with a biotech degree, I've traded pipettes for Python, morphing into a data magician. Beyond my data-drenched pursuits, I'm on a mission to demystify open-source, engineer tech that empowers, and weave a close-knit community. With an insatiable hunger for learning, I'm always eager to expand my skill set and evolve as a person. When I'm not lost in coding spells or culinary experiments (I whip up both algorithms and crème brûlée), I'm concocting ways to fuse data-driven insights with gastronomic delights. So, let's stir up a symphony of flavors and insights together! 🚀🔮🍳
+
+## About me
+- 🧙‍♂️ Former biotech wizard now conjuring data magic as a passionate data scientist.
+- 👨‍💻 On a mission to demystify open-source contributions, create tech that uplifts people, and build a tight-knit community.
+- 🍳 When not coding Python or SQL, I'm mastering the art of cooking and baking.
+- 🌱 Eternally curious, always eager to learn and expand my skill set.
 
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/AjyLmNcI5K53XlR0jR/giphy.gif" width="500"/>
@@ -13,6 +19,8 @@ A former data maestro who danced my way from the biotechnology stage to the dazz
 **kli210/kli210** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 https://media.giphy.com/media/AjyLmNcI5K53XlR0jR/giphy.gif
 Here are some ideas to get you started:
+
+- 🍽️ Cooking up both algorithms and crème brûlée..
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
