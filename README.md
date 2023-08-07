@@ -11,14 +11,16 @@ By day, I'm a data scientist, delving into the intricate world of data after a s
 - 🍳 When not coding Python or SQL, I'm mastering the art of cooking and baking.
 - 🌱 Eternally curious, always eager to learn and expand my skill set.
 
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/AjyLmNcI5K53XlR0jR/giphy.gif" width="500"/>
-</div>
 
 <!--
 **kli210/kli210** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 https://media.giphy.com/media/AjyLmNcI5K53XlR0jR/giphy.gif
 Here are some ideas to get you started:
+
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/AjyLmNcI5K53XlR0jR/giphy.gif" width="500"/>
+</div>
+
 
 - 🍽️ Cooking up both algorithms and crème brûlée..
 
