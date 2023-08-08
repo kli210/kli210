@@ -21,11 +21,6 @@ Feel free to explore my projects, learn more about my background, and get in tou
 - **Database Management**: MySQL
 - **Big Data**: AWS, Hadoop, Spark
 - **Version Control**: Git, GitHub
-- **Natural Language Processing (NLP)**: NLTK, spaCy, Gensim
-- **Feature Engineering**: One-hot Encoding, Scaling, Transformations
-- **Model Evaluation and Validation**: Cross-validation, ROC Curves, Precision-Recall Curves
-- **Time Series Analysis**: ARIMA, Prophet, Deep Learning Models
-- **Web Scraping**: Beautiful Soup, Scrapy, Selenium
 - **Deployment**: Streamlit (Interactive Web Apps)
 - **Data Engineering**: Data Pipelines, ETL Processes, Data Warehousing
 
