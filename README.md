@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://thumbs.gfycat.com/GlisteningAggravatingJunebug-size_restricted.gif" width="500"/>
+  <img src="https://thumbs.gfycat.com/GlisteningAggravatingJunebug-size_restricted.gif" width="400"/>
 </div>
 
 # Hey, I'm Kelly 👋
