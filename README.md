@@ -11,25 +11,9 @@ By day, I'm a data scientist, delving into the intricate world of data after a s
 - 🍳 When not coding Python or SQL, I'm mastering the art of cooking and baking.
 - 🌱 Eternally curious, always eager to learn and expand my skill set.
 
-
-<!--
-**kli210/kli210** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-https://media.giphy.com/media/AjyLmNcI5K53XlR0jR/giphy.gif
-Here are some ideas to get you started:
-
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/AjyLmNcI5K53XlR0jR/giphy.gif" width="500"/>
-</div>
+Feel free to explore my projects, learn more about my background, and get in touch. You can view the website live [here](https://kelly-li.netlify.app/).
 
 
-- 🍽️ Cooking up both algorithms and crème brûlée..
+*Cheers,*
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+*Kelly* c:
