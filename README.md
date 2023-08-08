@@ -13,7 +13,7 @@ Feel free to explore my projects, learn more about my background, and get in tou
 - 🍴 When not coding Python or SQL, I'm mastering the art of cooking and baking.
 - 🌱 Eternally curious, always eager to learn and expand my skill set.
 
-  ## 🚀 My Toolbox
+## 🚀 My Toolbox
 - **Programming Languages**: Python, SQL, R
 - **Data Analysis**: Pandas, NumPy, SciPy
 - **Machine Learning**: Scikit-learn, TensorFlow, Keras, PyTorch
