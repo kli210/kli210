@@ -13,9 +13,7 @@ Feel free to explore my projects, learn more about my background, and get in tou
 - 🍴 When not coding Python or SQL, I'm mastering the art of cooking and baking.
 - 🌱 Eternally curious, always eager to learn and expand my skill set.
 
-
-
-## Contacts
+## Connect with me
 - 📧 Email: [kellyli210.kl@gmail.com](mailto:kellyli210.kl@gmail.com)
 - 🔗 LinkedIn: [Kelly Li](https://www.linkedin.com/in/kli210/)
 - 🌐 Personal website: [Kelly Li's Portfolio](https://kelly-li.netlify.app/)
