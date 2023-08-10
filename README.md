@@ -31,12 +31,6 @@ Feel free to explore my projects, learn more about my background, and get in tou
 
 <br>
 
-*Cheers,*
-
-*Kelly* c:
-
-<br>
-
 ---
 
 ### GitHub Activity
