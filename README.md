@@ -13,6 +13,10 @@ Feel free to explore my projects, learn more about my background, and get in tou
 - 🍴 When not coding Python or SQL, I'm mastering the art of cooking and baking.
 - 🌱 Eternally curious, always eager to learn and expand my skill set.
 
+## Unveiling Projects: Where Data Crafts Culinary Enchantment ✨
+
+- **Capstone Project - Recipe Recommender:** Delve into my latest feat, a recipe recommender that blends data wizardry with culinary artistry. Curious minds can explore the [GitHub Repository](https://github.com/kli210/recipe_recommender_capstone) for code and delicious details.
+
 ## 🚀 My Toolbox
 - **Programming Languages**: Python, SQL, R
 - **Data Analysis**: Pandas, NumPy, SciPy
