@@ -30,8 +30,8 @@ Feel free to explore my projects, learn more about my background, and get in tou
 
 ## Let's Connect!
 - 📧 Email: [kellyli210.kl@gmail.com](mailto:kellyli210.kl@gmail.com)
-- 🔗 LinkedIn: [Kelly Li](https://www.linkedin.com/in/kli210/)
-- 🌐 Personal website: [Kelly Li's Portfolio](https://kelly-li.netlify.app/)
+- 🔗 LinkedIn: [linkedin.com/in/kelly-ys-li](https://www.linkedin.com/in/kli210/)
+- 🌐 Personal website: [kelly-li.netlify.app](https://kelly-li.netlify.app/)
 
 <br>
 
