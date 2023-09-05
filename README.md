@@ -20,7 +20,7 @@ Feel free to explore my projects, learn more about my background, and get in tou
 ## 🚀 My Toolbox
 - **Programming Languages**: Python, SQL, R
 - **Data Analysis**: Pandas, NumPy, SciPy
-- **Machine Learning**: Scikit-learn, TensorFlow, Keras, PyTorch
+- **Machine Learning**: Scikit-learn, NLP, TensorFlow, Keras, PyTorch
 - **Data Visualization**: Matplotlib, Seaborn, Tableau
 - **Database Management**: MySQL
 - **Big Data**: AWS, Hadoop, Spark
