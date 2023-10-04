@@ -13,20 +13,22 @@ Feel free to explore my projects, learn more about my background, and get in tou
 - 🍴 When not coding Python or SQL, I'm mastering the art of cooking and baking.
 - 🌱 Eternally curious, always eager to learn and expand my skill set.
 
-## Unveiling Projects: Where Data Crafts Culinary Enchantment ✨
+## My Projects
 
 - **Capstone Project - Recipe Recommender:** Delve into my latest feat, a recipe recommender that blends data wizardry with culinary artistry. Curious minds can explore the [GitHub Repository](https://github.com/kli210/recipe_recommender_capstone) for code and delicious details.
 
-## 🚀 My Toolbox
+## My Toolbox
 - **Programming Languages**: Python, SQL, R
 - **Data Analysis**: Pandas, NumPy, SciPy
+- **Data Visualization**: Tableau, Matplotlib, Seaborn
 - **Machine Learning**: Scikit-learn, NLP, TensorFlow, Keras, PyTorch
-- **Data Visualization**: Matplotlib, Seaborn, Tableau
 - **Database Management**: MySQL
-- **Big Data**: AWS, Hadoop, Spark
+- **Big Data**: AWS (EC2, S3), Hadoop, Hive, Spark
+- **Data Engineering**: Data Pipelines, ETL Processes, Data Warehousing
 - **Version Control**: Git, GitHub
 - **Deployment**: Streamlit (Interactive Web Apps)
-- **Data Engineering**: Data Pipelines, ETL Processes, Data Warehousing
+- **Scrum/Agile Tools**: JIRA, Trello
+- **Other Tools**: Excel (VLookup, Conditional Formatting, Pivot Tables Power Query and data validation), Google Analytics
 
 ## Let's Connect!
 - 📧 Email: [kellyli210.kl@gmail.com](mailto:kellyli210.kl@gmail.com)
