@@ -19,16 +19,15 @@ Feel free to explore my projects, learn more about my background, and get in tou
 
 ## My Toolbox
 - **Programming Languages**: Python, SQL, R, HTML & CSS
-- **Data Analysis**: Pandas, NumPy, SciPy
-- **Data Visualization**: Tableau, Matplotlib, Seaborn
-- **Machine Learning**: Scikit-learn, NLP, TensorFlow, Keras, PyTorch
-- **Database Management**: MySQL
-- **Big Data**: AWS (EC2, S3), Hadoop, Hive, Spark
-- **Data Engineering**: Data Pipelines, ETL Processes, Data Warehousing
-- **Version Control**: Git, GitHub
-- **Deployment**: Streamlit (Interactive Web Apps)
-- **Scrum/Agile Tools**: JIRA, Trello
-- **Other Tools**: Excel (VLookup, Conditional Formatting, Pivot Tables Power Query and data validation), Google Analytics
+- **Data Analysis**: SQL (Self-joins, Window Functions, Parameters), Excel (VLookup, Conditional Formatting, Pivot Tables Power Query and data validation) 
+- **Packages**: NumPy, Pandas, Matplotlib, Seaborn, SciPy, ggplot2, Scikit-learn, TensorFlow, Keras, PyTorch 
+- **Software Tools**: Tableau, Power BI, Data Build Tool, Git, MS Office, Latex, Jira, Docker, PySpark, Google Analytics, SAS
+- **IDEs**: Jupyter Notebook, PyCharm, Google Colab, R studio, Visual Studio Code, Kaggle 
+- **Methodologies**: Agile, Scrum, Kanban, Waterfall
+- **Data Engineering**: Data Pipelines, ETL Processes, Data Warehousing  
+- **Big Data**: AWS (EC2, S3), Hadoop, Hive, Apache Spark
+- **Data Warehouse**: MySQL, Snowflake
+- **Operating System**: Windows, Linux, Unix 
 
 ## Let's Connect!
 - 📧 Email: [kellyli210.kl@gmail.com](mailto:kellyli210.kl@gmail.com)
