@@ -15,7 +15,7 @@ Feel free to explore my projects, learn more about my background, and get in tou
 
 ## My Projects
 
-- **Capstone Project - Recipe Recommender:** Delve into my latest feat, a recipe recommender that blends data wizardry with culinary artistry. Curious minds can explore the [GitHub Repository](https://github.com/kli210/recipe_recommender_capstone) for code and delicious details.
+- **TastyFinds - Recipe Recommender:** Delve into my latest feat, a recipe recommender that blends data wizardry with culinary artistry. Curious minds can explore the [GitHub Repository](https://github.com/kli210/recipe_recommender_capstone) for code and delicious details.
 
 ## My Toolbox
 - **Programming Languages**: Python, SQL, R, HTML & CSS
